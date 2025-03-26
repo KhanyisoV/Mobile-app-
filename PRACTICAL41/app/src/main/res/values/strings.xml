@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PRACTICAL 4.1</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="enter_amount_paid">Enter amount paid :</string>
+    <string name="register">Register</string>
+    <string name="amount">Amount</string>
+    <string name="allowed_to_register">Allowed to register</string>
+</resources>
